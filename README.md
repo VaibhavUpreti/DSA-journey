@@ -1,2 +1,3 @@
 # DSA-journey
-Contains good problems on DSA
+
+how to dsa idk
