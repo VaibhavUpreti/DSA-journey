@@ -1,3 +1,13 @@
 # DSA-journey
 
-how to dsa idk
+Stages- 
+
+## 1. Programming Language
+
+
+
+
+
+
+## 2. Data Structures 
+
