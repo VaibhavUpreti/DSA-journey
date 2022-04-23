@@ -5,7 +5,7 @@ int main(){
     char oper;
     float n1 , n2;
 
-    cout << "Enter the operator which you want to perform: + , - , * , / , %";  // Same as printf in C
+    cout << "Enter the operator which you want to perform: + , - , * , / ";  // Same as printf in C
     cin >> oper; // Same as scanf in C
 
     cout << "Enter the two Operands ";  // Same as printf in C
